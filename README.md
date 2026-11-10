@@ -137,7 +137,7 @@ Essa organização permite separar a interface, a lógica de apresentação e o 
 | Campo | Descrição |
 |---|---|
 | **Título de Teste** | **Pesquisa Parcial de Produto** - Verificar se a busca encontra produtos utilizando apenas parte do nome. |
-| **Módulo** | Consulta de Resíduos |
+| **Módulo** | Consulta de Resíduos | 
 | **Pré-Condições** | Banco contendo o produto desejado (exemplo usando “Garrafa PET”). |
 | **Dados de Entrada** | **Barra de Pesquisa:** Garra |
 | **Passos de Execução** | **1.** Acessar a tela de busca de produtos.<br>**2.** Digitar um nome parcial (Garra).<br>**3.** Realizar a pesquisa. |
